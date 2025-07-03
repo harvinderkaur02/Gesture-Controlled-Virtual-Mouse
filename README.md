@@ -29,7 +29,7 @@ A Python-based AI system that allows you to control your computer using **hand g
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/gesture-controlled-mouse.git
+    git clone https://github.com/harvinderkaur02/Gesture-Controlled-Virtual-Mouse
     cd gesture-controlled-mouse/src
 
 2. Install dependencies
