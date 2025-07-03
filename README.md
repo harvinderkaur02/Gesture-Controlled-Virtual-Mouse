@@ -44,31 +44,33 @@ A Python-based AI system that allows you to control your computer using **hand g
 
 Listed in requirements.txt, including:
 
-opencv-python
+. opencv-python
 
-mediapipe
+. mediapipe
 
-pyautogui
+. pyautogui
 
-pycaw
+. pycaw
 
-screen-brightness-control
+. screen-brightness-control
 
-protobuf
+. protobuf
 
-comtypes
+. comtypes
 
 # 🧠 Gesture Mappings
 
-Gesture	Action
+| Gesture             | Action                     |
+| ------------------- | -------------------------- |
+| ✋ Palm              | Idle (no action)           |
+| ✌️ V-sign           | Activate mouse control     |
+| 👊 Fist             | Hold/Drag                  |
+| ☝️ Index Finger     | Right Click                |
+| ✌️ (Closed Fingers) | Double Click               |
+| 🤏 Pinch (Major)    | Brightness / Volume        |
+| 🤏 Pinch (Minor)    | Horizontal/Vertical Scroll |
 
-✋ Palm	Idle (no action)
-✌️ V-sign	Activate mouse control
-👊 Fist	Hold/Drag
-☝️ Index Finger	Right Click
-✌️ (Closed Fingers)	Double Click
-🤏 Pinch (Major)	Brightness / Volume
-🤏 Pinch (Minor)	Horizontal/Vertical Scroll
+
 
 # 🧪 Tested On
 
