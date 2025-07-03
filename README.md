@@ -1,9 +1,8 @@
-# Gesture-Controlled-Virtual-Mouse
+
 # 🖱️ Gesture-Controlled Virtual Mouse
 
 A Python-based AI system that allows you to control your computer using **hand gestures** via webcam. Built with OpenCV, MediaPipe, PyAutoGUI, and Pycaw, this tool lets you perform mouse actions, adjust system volume/brightness, and scroll — all **touch-free**.
 
----
 
 ## 🎯 Features
 
@@ -16,39 +15,30 @@ A Python-based AI system that allows you to control your computer using **hand g
 - 🔄 Smooth gesture transitions with frame stabilization
 - 📷 Works with live webcam feed (OpenCV)
 
----
-
 ## 📁 Project Structure
+    
+    Gesture Project/
+    ├── src/
+    │ ├── main.py # Entry script
+    │ ├── virtual_mouse.py # Core logic: gesture detection & control
+    ├── requirements.txt # All dependencies
+    ├── README.md # Project overview (you're here!)
 
-Gesture Project/
-├── src/
-│ ├── main.py # Entry script
-│ ├── virtual_mouse.py # Core logic: gesture detection & control
-├── requirements.txt # All dependencies
-├── README.md # Project overview (you're here!)
-
-yaml
-Copy
-Edit
-
----
 
 ## 🛠️ Installation
 
 1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/gesture-controlled-mouse.git
-cd gesture-controlled-mouse/src
+    ```bash
+    git clone https://github.com/yourusername/gesture-controlled-mouse.git
+    cd gesture-controlled-mouse/src
 
 2. Install dependencies
-
-```bash
-pip install -r ../requirements.txt
+    ```bash
+    pip install -r ../requirements.txt
 
 3. **Run the project**
-
-```bash
-python main.py
+    ```bash
+    python main.py
 
 ##📦 Requirements
 Listed in requirements.txt, including:
