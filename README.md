@@ -39,8 +39,8 @@ A Python-based AI system that allows you to control your computer using **hand g
 3. **Run the project**
     ```bash
     python main.py
-
-##📦 Requirements
+    
+📦 Requirements
 Listed in requirements.txt, including:
 
 opencv-python
@@ -57,9 +57,9 @@ protobuf
 
 comtypes
 
-##🧠 Gesture Mappings
+🧠 Gesture Mappings
 Gesture	Action
-✋ Palm	Idle (no action)
+ ✋ Palm	Idle (no action)
 ✌️ V-sign	Activate mouse control
 👊 Fist	Hold/Drag
 ☝️ Index Finger	Right Click
@@ -67,14 +67,14 @@ Gesture	Action
 🤏 Pinch (Major)	Brightness / Volume
 🤏 Pinch (Minor)	Horizontal/Vertical Scroll
 
-##🧪 Tested On
+🧪 Tested On
 Python 3.11+
 
 Windows 10/11
 
 Laptop Webcam
 
-# 📌 Future Improvements
+📌 Future Improvements
 Add GUI overlay for gesture guide
 
 Support for multi-monitor environments
@@ -84,9 +84,13 @@ Add voice feedback or click sound
 Dark mode camera window
 
 # 👨‍💻 Developed By
+
 Harvinder Kaur
+
 B.Tech Final Year Student
+
 Contact: [harvinderkaur2622@example.com]
+
 GitHub: [https://github.com/harvinderkaur02]
 
 📜 License
