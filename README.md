@@ -96,7 +96,7 @@ Harvinder Kaur
 
 B.Tech Final Year Student
 
-Contact: [harvinderkaur2622@example.com]
+Contact: [harvinderkaur2622@gmail.com]
 
 GitHub: [https://github.com/harvinderkaur02]
 
